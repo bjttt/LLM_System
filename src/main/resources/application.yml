@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+llm:
+  api-key: sk-981526e50fe74300a7bea4801309c59d
+  base-url: https://dashscope.aliyuncs.com/compatible-mode/v1
